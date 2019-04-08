@@ -1,2 +1,3 @@
 # nlp-related
-text summarization, topic modeling
+topic modeling on Wikihow data
+
